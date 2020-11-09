@@ -15,7 +15,7 @@ The functionality of the dice itself is as simple as you could imagine. The dice
 
 
 
-## Istallation
+## Installation
 
 Install LedDice.ino file and put it in a folder with the same name. Change the Arduino pins to match own setup and upload into arduino. 
 
